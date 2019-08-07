@@ -27,4 +27,4 @@ In the order to fulfill the dependencies there must be installed `keras` .
 
 ![image](https://github.com/garg525modi/Fashion-Class-Classification-MNIST-By-Convolutional-Neural-Network/blob/master/cnn_summary.JPG)
 
-![Sanjay Photo](https://user-images.githubusercontent.com/44137531/62600723-3962cb00-b90d-11e9-8084-9e9e93bc041d.jpeg)
+
